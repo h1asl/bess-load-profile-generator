@@ -223,3 +223,6 @@ See [data/README.md](data/README.md) for the full country capability matrix and 
 - Python 3.9+
 - GLPK solver (external install, not bundled) — wholesale markets only
 
+
+This project is independent open-source work and is not affiliated with or derived from any proprietary software.
+
